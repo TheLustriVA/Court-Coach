@@ -1,0 +1,24 @@
+{
+  "name": "court-coach",
+  "version": "1.0.0",
+  "description": "A responsive Progressive Web App (PWA) for netball coaches and players to visualize court positions and movement strategies.",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLustriVA/Court-Coach.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TheLustriVA/Court-Coach/issues"
+  },
+  "homepage": "https://github.com/TheLustriVA/Court-Coach#readme",
+  "devDependencies": {
+    "eslint": "^9.30.1"
+  }
+}

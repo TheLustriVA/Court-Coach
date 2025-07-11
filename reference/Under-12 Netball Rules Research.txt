@@ -1,0 +1,347 @@
+﻿A Guide to Under-12 Netball at the Redlands Netball Association: Rules, Positions, and Play
+
+
+
+
+I. Introduction: Navigating U12 Netball at Redlands Netball Association
+
+
+A. Purpose and Scope of the Report
+This report serves as a comprehensive guide to Under-12 (U12) netball as played within the Redlands Netball Association (RNA) in Brisbane, Australia. It is designed to be a valuable resource for players transitioning into this age group, their parents, volunteer coaches, and club officials. The information contained herein aims to clarify the specific context of U12 netball at RNA, detailing essential game specifications such as ball size, goal height, and match duration. Furthermore, it provides a thorough explanation of the seven playing positions and their respective roles, a detailed breakdown of the rules of play, including common infringements and their consequences, and an insight into the crucial role of umpires and their methods of communication, particularly hand signals.
+Understanding these multifaceted elements is fundamental to fostering player development, ensuring the principles of fair play are upheld, and ultimately enhancing the enjoyment and engagement in netball at the community level. This report endeavors to equip all stakeholders with the knowledge necessary to navigate the U12 netball landscape at RNA confidently and effectively.
+B. Understanding the U12 Transition at RNA
+The move into the Under-12 age category represents a significant developmental step for young netballers. Within the Redlands Netball Association, it is noted that "Children move from Net Set Go to full competition rules in the year of their 11th birthday. At the Redland's Netball Association the competition is broken up into... Under 12, and Under 11".1 This statement signifies a departure from the heavily modified rules characteristic of the earlier NetSetGO program, which is designed for children aged 5-10 years.2 The U12 level serves as a bridge, building upon foundational skills acquired in earlier years and introducing players to a more structured and competitive form of the game.
+While the term "full competition rules" suggests an adherence to standard netball regulations, it is important to consider the developmental stage of U12 players. National guidelines, such as Netball Australia's Junior Policy for the "Development (Learn to Train) F3" stage (encompassing an approximate age span of 11-13 years), place a strong emphasis on holistic player development rather than solely on competitive outcomes.2 This national policy, for instance, advocates for "competition rotation (no scoring or ladders)" and "no representative teams" at this stage, ensuring the focus remains on skill acquisition and enjoyment.2
+This presents a point of consideration for the RNA U12 context: how are "full competition rules" interpreted and applied locally? Does the RNA framework for U12s fully integrate elements like formal scoring, ladders, and finals, or does it lean towards the national developmental philosophy that prioritizes participation and skill progression over overt competition? The most definitive source for clarifying RNA's specific approach to U12 competition structure, including policies on scoring and finals, would be the "Redland Netball Association Competitions Manual".3 This report will proceed by outlining standard and commonly accepted U12 practices, while consistently advising reference to RNA's official documentation for local specifics.
+
+
+II. U12 Netball at Redlands Netball Association: Key Specifications
+
+
+A. The Pivotal "Redland Netball Association Competitions Manual"
+For any individual involved in netball at the Redlands Netball Association, the "Redland Netball Association Competitions Manual" stands as the cornerstone document for all local competition rules and regulations.3 While this report synthesizes information from RNA's public communications, alongside guidelines from Netball Queensland and Netball Australia, the Competitions Manual is the ultimate authority for RNA-specific protocols.
+It is important to note that detailed U12 rules were not available within the publicly accessible sections of the RNA website that were reviewed for this report.4 Therefore, direct consultation of the Competitions Manual by RNA members is strongly encouraged to obtain the most accurate and current local U12 guidelines. The RNA also provides other key documents such as the "RNA Constitution / Rules" and various policies that govern the association's operations.3
+B. Essential Game Specifications for U12s
+As players progress to the U12 age group, several key aspects of the game change from the modified versions experienced in younger NetSetGO programs. These specifications are crucial for fair play and appropriate skill development.
+1. Ball Size
+For U12 players, the standard netball used is typically a Size 5 ball. This is considered the full-size netball and is used for players aged over 10 in both matches and training.6 This marks a progression from the Size 4 ball, which is used in RNA's modified rules for 7-9 year-olds 7 and is generally recommended for NetSetGO participants.8 The School Sport Australia 12 Years and Under Championship Rules also mandate the use of Size 5 match balls.9 The transition to a Size 5 ball is important for developing appropriate handling, passing, and shooting techniques as players grow and their skill levels advance.
+2. Goal Post Height
+The standard goal post height for players aged 11 and over, including U12s, is 3.05 metres (10 feet).11 This is the regulation height set by World Netball and is used in high school, senior club, and international matches. This is a significant increase from the 2.4-metre (8 feet) posts used in RNA's 7-9 years modified rules program 7 and generally within NetSetGO programs.8 National U12 championships also utilize full-height posts, indicated by requirements for padding to cover the "full length of the post".9 Adapting to the 3.05m goal height presents a new challenge for shooters and influences attacking strategies, requiring greater accuracy, strength, and an understanding of spatial dynamics.
+3. Match Duration
+The duration of matches for U12 netball can vary from the standard senior game format. While the World Netball Rules of Netball (2024 Edition) outline 4 x 15-minute quarters for full games 12, modifications are common for junior age groups to manage player fatigue and maintain engagement. For instance, the School Sport Australia 12 Years and Under Championship Rules specify matches consisting of
+four 8-minute quarters, with breaks of 2 minutes after the first and third quarters, and a 4-minute half-time break.9 In contrast, RNA's modified rules for 7-9 year-olds utilize 4 x 10-minute quarters 7, and general NetSetGO guidelines also suggest 10-minute quarters for younger participants.8
+Given that U12 players are transitioning from shorter formats, it is probable that RNA U12 matches will have quarters shorter than the senior 15-minute standard. The 4 x 8-minute format used in national U12 championships provides a strong benchmark. Netball Australia's summary of modified rules also indicates a progression in match duration as players age, starting with 4 x 8-minute quarters, moving to 4 x 10 minutes, before reaching the 4 x 15-minute standard.13 The definitive match duration for RNA U12 competitions will be stipulated in the Redland Netball Association Competitions Manual.
+C. Team Composition
+A standard netball team on court consists of seven players.8 For competitive events like the School Sport Australia 12 Years and Under Championships, team squads are typically limited to a maximum of twelve players.9 The specific squad size limits for RNA U12 teams would be outlined in their Competitions Manual.
+
+
+III. On the Court: Team Structure and Player Positions
+
+
+A. Overview of the Seven Playing Positions
+Netball is characterized by its structured team play, with seven distinct playing positions, each with specific roles and restricted areas of movement on the court. These positions are: Goal Shooter (GS), Goal Attack (GA), Wing Attack (WA), Centre (C), Wing Defence (WD), Goal Defence (GD), and Goal Keeper (GK).14 Players are required to wear bibs displaying the abbreviation of their position.9 The court itself is divided into three equal thirds: a centre third and two goal thirds (one attacking and one defensive for each team).8 Understanding these positions is fundamental to grasping netball strategy and gameplay.
+B. Detailed Breakdown of Each Position
+Each of the seven positions has unique responsibilities and designated playing zones:
+* Goal Shooter (GS):
+   * Allowed Court Areas: Attacking third, including the goal circle.14 The goal circle is a 4.9-metre radius semi-circle at each end of the court.14
+   * Primary Roles and Responsibilities: The GS is the primary scoring position. Their main objective is to shoot goals from within the goal circle. They work in tandem with the Goal Attack to create scoring opportunities and receive passes from midcourt players. Typically defended by the opposing Goal Keeper.14
+* Goal Attack (GA):
+   * Allowed Court Areas: Centre third, attacking third, and the goal circle.14
+   * Primary Roles and Responsibilities: The GA shares the goal-scoring duties with the GS. They are also crucial in setting up attacking plays, feeding the ball to the GS, and bringing the ball into the goal circle. Often defended by the opposing Goal Defence.14
+* Wing Attack (WA):
+   * Allowed Court Areas: Centre third and attacking third, excluding the goal circle.14
+   * Primary Roles and Responsibilities: The WA's main function is to transition the ball from the centre third into the attacking goal third, providing accurate passes to the GA and GS. Strong passing skills, including various types like bounce and lob passes, are essential. Usually marked by the opposing Wing Defence.14
+* Centre (C):
+   * Allowed Court Areas: All three thirds of the court (centre, attacking, and defensive), excluding both goal circles.14
+   * Primary Roles and Responsibilities: The Centre is involved in both offensive and defensive plays throughout the court. They are responsible for taking the centre pass to restart play after a goal is scored. This position demands a high level of cardiovascular fitness due to the extensive court coverage required.14
+* Wing Defence (WD):
+   * Allowed Court Areas: Centre third and defensive third, excluding the goal circle.14
+   * Primary Roles and Responsibilities: The WD primarily defends against the opposing Wing Attack, aiming to intercept passes and disrupt the opposition's attacking flow into their goal third. They may also assist in defending the circle edge and preventing feeds to the shooters.14
+* Goal Defence (GD):
+   * Allowed Court Areas: Centre third, defensive third, and the goal circle.14
+   * Primary Roles and Responsibilities: The GD typically marks the opposing Goal Attack. Their main defensive duties include intercepting passes into the goal circle, rebounding missed shots, and working with the Goal Keeper to prevent the opposition from scoring. They also play a role in transitioning the ball out of defence.14
+* Goal Keeper (GK):
+   * Allowed Court Areas: Defensive third, including the goal circle.14
+   * Primary Roles and Responsibilities: The GK is a specialized defensive position, often considered the last line of defence. Their primary role is to prevent the opposing Goal Shooter and Goal Attack from scoring goals by intercepting passes, challenging shots, and securing rebounds. They are also responsible for taking throw-ins from the goal line in their defensive third. Good anticipation and accurate passing are key attributes.14
+C. Table: U12 Player Positions – Areas, Roles, and Responsibilities
+To provide a clear and concise overview, the following table summarizes the key aspects of each playing position:
+Position (Abbreviation)
+	Allowed Court Area(s)
+	Key Attacking Roles
+	Key Defensive Roles
+	Goal Shooter (GS)
+	Attacking third including goal circle
+	Score goals, work with GA for shooting positions
+	Limited defensive role, may apply pressure to outgoing passes
+	Goal Attack (GA)
+	Centre third, attacking third including goal circle
+	Score goals, set up attacking plays, feed GS, bring ball into circle
+	Defend opposing GD, apply pressure in centre third
+	Wing Attack (WA)
+	Centre third, attacking third excluding goal circle
+	Move ball from centre to attacking third, feed GA/GS, create attacking opportunities
+	Apply defensive pressure on opposing WD
+	Centre (C)
+	Centre, attacking, and defensive thirds excluding goal circles
+	Initiate play with centre pass, link defence and attack, feed attacking players
+	Defend opposing C, intercept passes in centre third, apply pressure across court
+	Wing Defence (WD)
+	Centre third, defensive third excluding goal circle
+	Transition ball from defence if possession gained
+	Defend opposing WA, intercept passes, prevent feeds into attacking third/goal circle
+	Goal Defence (GD)
+	Centre third, defensive third including goal circle
+	Transition ball from defence, bring ball through centre third
+	Defend opposing GA, intercept passes into circle, rebound missed shots, assist GK
+	Goal Keeper (GK)
+	Defensive third including goal circle
+	Initiate play from defensive throw-ins, clear passes after rebounds
+	Defend opposing GS/GA, prevent goals, intercept passes into circle, rebound missed shots
+	D. Importance of Positional Play in U12 Development
+While U12 players are learning the specific roles and responsibilities associated with each of the seven netball positions, it is crucial to approach this stage with a developmental mindset. Netball Australia's Junior Netball Policy strongly advocates that for the "Development (Learn to Train) F3" stage (approximately 11-13 years), netball providers "must ensure players experience all court positions regardless of their current height or shape".2 This policy further emphasizes that competition at this level should offer "opportunities to experience different positions".2
+The rationale behind this approach is multifaceted. Exposing young players to various positions helps them develop a more comprehensive understanding of the game's dynamics, appreciate the unique skills required for different roles, and build a broader skill set. It prevents premature specialization, which can sometimes occur if players are pigeonholed into certain positions based on early physical attributes like height. For instance, a tall player might only be played in shooting or defending circle positions, thereby missing out on developing crucial midcourt skills. The Redlands Netball Association's "Junior Player Code of Behaviour" encourages players to be "responsible team members" and to "encourage and assist all players" 15, principles that align well with a developmental approach where players support each other in learning diverse roles. Therefore, while U12 players at RNA will be learning the intricacies of each position as outlined above, coaches and parents should understand the value of providing opportunities for players to rotate through different positions during a season. This practice aligns with national best practice for junior sport and contributes significantly to long-term player development and enjoyment.
+
+
+IV. The Rules of the Game: U12 Netball Explained
+
+
+A. Foundational Principles
+The Rules of Netball are built upon core values that emphasize equal opportunity for all players, the importance of fair play, and a fundamental respect for an opponent's skills and safety.16 These principles are paramount in creating a positive and enjoyable sporting environment. The Redlands Netball Association reinforces these values through its own Codes of Behaviour, which require all members, including players, coaches, and spectators, to "Treat all persons with respect and courtesy," "Be ethical, fair, considerate and honest in all dealings with others," and to "Operate within the rules and spirit of the sport including national and state guidelines".3 Adherence to these principles is essential for the integrity and enjoyment of the game at all levels, particularly in junior development.
+B. Key Rules Applicable to U12s
+As U12 players at RNA transition to "full competition rules" 1, they will encounter regulations that are more aligned with the standard game as defined by the World Netball Rules of Netball (2024 Edition).12 These rules differ in several aspects from the modified versions used in younger age groups. The Redland Netball Association Competitions Manual remains the definitive local authority for any specific U12 modifications.
+1. Starting and Restarting Play: The Centre Pass
+The game commences, and restarts after every goal, with a centre pass.12 Unlike the RNA's 7-9 years modified rule where the non-scoring team takes the subsequent centre pass 7, in standard netball, teams alternate taking the centre pass irrespective of which team scored.12
+
+
+At the whistle, the Centre in possession of the ball must have at least one foot wholly within the centre circle.12 The opposing Centre is positioned in the centre third and is free to move. All other players must be in their respective goal thirds and are not permitted to enter the centre third until the whistle is blown to signal the pass.12 The ball from the centre pass must be touched or caught by a player who is wholly within the centre third, or who lands wholly within the centre third after catching it in the air.12
+2. Playing the Ball
+* Held Ball: A player in possession of the ball must pass it or shoot for goal within three seconds.12 This is a critical timing element and is significantly shorter than the up to five seconds allowed in RNA's 7-9 years modified rules 7 and general NetSetGO guidelines.8
+* Replayed Ball: A player cannot "replay" the ball. This means, for example, they cannot bounce the ball to themselves and regather it, or throw the ball into the air and catch it again, unless it is part of specific actions like recovering a rebound off the goalpost or gaining possession after a deflection.12 While younger age groups might have more leniency for fumbling 13, U12 players are expected to have more refined ball control.
+3. Movement with the Ball: Footwork (Stepping)
+Netball has specific rules regarding how a player can move their feet while in possession of the ball. These are more strictly enforced at the U12 level compared to the "shuffling on the spot" that might be permitted in RNA's 7-9 years modified rules 7 or NetSetGO.8
+
+
+The basic principles involve establishing a "landing foot" (the foot on which a player lands when catching the ball, or the first foot to touch the ground). Players can then pivot on this landing foot and step with their other foot. However, they cannot drag or slide the landing foot, hop on either foot, jump from both feet and land on both feet while still holding the ball, or reground the landing foot after lifting it before releasing the ball.12 Infringement of the footwork rule results in a free pass to the opposing team.
+4. Court Areas and Ball Movement
+* Offside: Each of the seven playing positions is restricted to specific areas of the court. If a player enters an area not designated for their position, with or without the ball, they are deemed "offside".12 This results in a free pass to the opposition.
+* Over a Third: The ball cannot be thrown over a complete third of the court without being touched or caught by a player who is legitimately within that third.8 For example, a pass from the defensive goal third cannot travel directly to the attacking goal third without being touched by a player in the centre third.
+5. Defensive Play
+* Obstruction: When defending an opponent who is in possession of the ball, a player must maintain a minimum distance of 0.9 metres (3 feet). This distance is measured from the nearest part of the landing foot of the player with the ball to the nearest part of the defending player’s nearer foot that is in contact with the ground.12 This is a closer defending distance than the 1.2 metres stipulated in RNA's 7-9 years modified rules 7 and general NetSetGO guidelines.8 A defender who is within this 0.9m distance may not attempt to intercept or deflect the ball, nor use intimidating arm movements that unfairly impede the attacker's passing or shooting action.12
+* Contact: Physical contact with an opponent that unfairly interferes with their play is not permitted. This includes actions such as pushing, tripping, holding, grabbing, or leaning on an opponent.8 Player safety is a paramount concern, and umpires will penalize contact that disadvantages an opponent or is deemed dangerous.
+6. Scoring a Goal
+Only the Goal Shooter (GS) and Goal Attack (GA) are permitted to score goals.8 To be eligible to shoot, the GS or GA must be entirely within the goal circle when they receive the ball and before they shoot. The ball must pass completely through the goal ring for a goal to be awarded.
+7. Substitutions
+Standard netball rules allow for substitutions to be made during intervals (between quarters) or when play is stopped due to an injury or illness, or for blood.12 The 2024 World Netball Rules have introduced more flexible options:
+* Tactical Changes: These allow teams to make substitutions and/or positional changes on court immediately after a goal has been scored. An on-court player must request the umpire to hold time for this purpose.12
+* Rolling Substitutions: Competition authorities can choose to adopt rolling substitutions, where players can be substituted during play without a stoppage, provided specific procedures are followed (e.g., substitute enters from a designated area, tags the outgoing player).12
+The Redlands Netball Association lists "Redlands Netball Rolling Substitution Rules" under its "RNA Constitution / Rules" section.3 This suggests that RNA may implement rolling substitutions. However, whether these apply to U12 competitions or all grades would need to be confirmed by consulting the RNA Competitions Manual and the specific rolling substitution rules document. Rolling substitutions can be particularly beneficial for junior development, as they allow for more players to get game time and can facilitate easier tactical adjustments by coaches. The School Sport Australia U12 rules also include regulations about the maximum number of quarters a player can participate in per day, implying a system of managed substitutions is in place for such tournaments.9 The exact substitution procedures for RNA U12 games will be detailed in the association's official documentation.
+8. Other Common Infringements and Outcomes
+* Throw-in: When the ball goes out of court, play is restarted with a throw-in taken by an opponent of the team that last touched the ball. The player taking the throw-in stands outside the court where the ball crossed the line.8
+* Free Pass: Awarded for minor infringements such as stepping, offside, held ball, or over a third. The pass is taken from where the infringement occurred by any player from the non-offending team who is allowed in that area. The player who committed the infringement does not need to stand out of play.8
+* Penalty Pass/Shot: Awarded for major infringements like contact or obstruction. The player who committed the infringement must stand beside and away from the player taking the penalty pass, and must not move or speak until the ball has been released. If the infringement occurs in the goal circle, the GS or GA awarded the penalty can choose to either pass the ball or take a shot at goal.8
+* Toss Up: Used to restart play when two opposing players gain possession of the ball simultaneously, when there is simultaneous contact by opposing players, or if the umpire is unable to determine who last touched the ball before it went out of court.8
+C. Table: Key Rule Differences – RNA Modified (7-9yrs) vs. Likely U12 Competition Rules
+The following table highlights some of the key differences in rules that U12 players will encounter compared to the modified rules typically played in RNA's 7-9 years age group:
+
+
+Rule Aspect
+	RNA Modified Rules (7-9 Yrs) 7
+	Likely U12 Competition Rules (Based on World Netball/Netball Aus Standards)
+	Goal Post Height
+	2.4m
+	3.05m (10ft) 11
+	Ball Size
+	Size 4
+	Size 5 6
+	Time to Pass Ball
+	Up to 5 seconds
+	Up to 3 seconds 12
+	Stepping
+	Shuffling on spot allowed; leniency for minor foot movements
+	Strict footwork rules (landing foot, pivot) 12
+	Obstruction Distance
+	Minimum 1.2m (4ft)
+	Minimum 0.9m (3ft) 12
+	Centre Pass Restart
+	Taken by the team that did not score the last goal
+	Alternating centre passes between teams 8
+	Defending Shot at Goal
+	Players may defend a shot at goal (though modified defence rules may apply)
+	Players may defend a shot at goal (standard obstruction rules apply)
+	Substitutions
+	Unlimited, often at intervals or during play with umpire guidance
+	Standard rules (intervals, injury) or potentially Tactical/Rolling Subs 12
+	This comparison illustrates the progression in game complexity and the increased demands on skill execution as players move into the U12 age group.
+
+
+V. The Whistle and the Signals: Understanding the Umpire's Role
+
+
+A. The Umpire's Responsibilities
+Umpires are integral to the game of netball, ensuring that matches are conducted fairly, safely, and in accordance with the rules.16 Their primary responsibilities include applying the rules with impartiality and consistency, controlling the flow of the game, managing any infringements, and communicating their decisions clearly to players, coaches, and scorers.22 At the Redlands Netball Association, umpires are guided by documents such as the "RNA Umpiring and Procedure Booklet" 3, and further support and development are available through Netball Queensland's resources.23
+Qualities of a good umpire extend beyond rule knowledge. They include effective communication skills, sensitivity and understanding towards players (especially in junior grades), the ability to make quick and accurate decisions under pressure, and a commitment to ensuring the safety and well-being of all participants.22
+B. Communication Methods
+Umpires use a combination of methods to communicate during a game:
+* Whistle: The whistle is a primary tool for an umpire. It is used to start and stop play (e.g., for the centre pass, at the end of a quarter), to signal when a goal has been scored, to indicate that an infringement has occurred and is being penalized, and to manage game time for stoppages like injury or tactical changes.22 Umpires are encouraged to use short, sharp blasts of the whistle to ensure clarity.27
+* Voice: Clear and concise verbal communication is essential. When an infringement occurs, umpires will often state the type of infringement, the team being penalized, and where the subsequent pass or shot should be taken. The "5 W's" of umpiring can be a useful framework for this communication: What is the infringement? Who committed the violation? What sanction has been awarded? Who is receiving the sanction? Where should the next play be taken from?.22 Voice calls should be firm but fair, and audible to players and officials.27
+* Hand Signals: Hand signals are visual cues that complement the whistle and voice calls, providing immediate clarification of the umpire's decision. They are designed to "mimic" the action being penalized or to indicate the decision made, making it easier for everyone involved to understand the ruling.12
+C. Common Umpire Hand Signals for U12 Games
+The official hand signals for netball are outlined by World Netball, with the 2024 Rules of Netball providing the most current descriptions.12 Consistent use of these standardized signals is vital for clear communication. For U12 players learning "full competition rules," correct and clear signals from umpires are crucial for their understanding of infringements and the flow of the game. The Redlands Netball Association offers Umpire Training Programs 4 and has an Umpiring and Procedure Booklet 3, which, along with Netball Queensland's umpire development pathways 24, are essential for teaching correct signals and rule application. This commitment to umpire education ensures quality officiating, which directly benefits the players' experience and development.
+Key hand signals relevant for U12 games, based on the World Netball Rules 2024 12, include:
+Game Management Signals:
+* Start/Restart of Play: Arm held high, angled towards the goal end of the team that is taking the centre pass.
+* Hold Time: Facing the timekeeper, one hand held vertically and the other horizontally to form a ‘T’ shape.
+* Direction of Pass (for centre pass, sanction, or action): Arm outstretched to the side, pointing towards the goal end of the team that will take the pass.
+* Advantage: Arm sweeps across the body in the direction of the goal end of the team that is being allowed the advantage.
+* Goal Scored: Arm held straight up vertically.
+* Goal Not Scored: Arms move from side to side across each other above the waist.
+* Toss Up: While not explicitly detailed with a new visual in the 2024 appendix, a common signal involves the umpire holding the ball high with one hand and then flicking it upwards. Older guides describe it as "Palm of hand moved vertically upward".27
+* Tactical Change: A circular motion of both forearms around each other, performed above the waist.
+Infringement Signals:
+* Footwork: Hands, with palms facing down, move vertically up and down in opposite directions (as if mimicking steps).
+* Contact: One hand, palm facing down, taps the opposite forearm.
+* Obstruction (of a player in possession of the ball): Hands, with palms facing inward, are held a short distance apart in front of the body.
+* Obstruction (of a player not in possession of the ball): Arms are angled out from the body, below waist height.
+* Offside / Incorrect Position / Over a Third / Breaking (at centre pass): Hand traces a medium-sized upward arc in the direction of the incorrect area or position.
+* Held Ball: Arm held vertically with three fingers clearly displayed (representing the three-second limit).
+* Short Pass: Hands, with palms facing inward, are held a short distance apart. One hand then moves towards the other stationary hand.
+* Incorrect Playing of the Ball (includes Replayed Ball, Playing the Ball on the Ground): One hand, palm facing down, moves vertically up and down in a bouncing action.
+D. Table: Common Umpire Hand Signals and Their Meanings (U12 Context)
+This table provides a quick reference to some of the most common umpire hand signals U12 players, coaches, and spectators are likely to encounter:
+
+
+Signal Name
+	Description of Hand Signal (based on 12)
+	Meaning / Infringement
+	Game Management
+	
+
+	
+
+	Start/Restart of Play
+	Arm held high, angled towards goal end of team with centre pass.
+	Indicates the start of play or restart after a goal.
+	Hold Time
+	Facing timekeeper, one hand vertical, other horizontal (T-shape).
+	Signals to the timekeeper to stop the clock (e.g., for injury, tactical change).
+	Direction of Pass
+	Arm outstretched to side, pointing to goal end of team with pass.
+	Shows which team has possession for a centre pass, free pass, or penalty pass.
+	Advantage
+	Arm sweeps across body towards goal end of team with advantage.
+	Indicates an infringement occurred, but play continues as the non-offending team is in a better position.
+	Goal Scored
+	Arm held vertically.
+	Confirms a successful goal.
+	Infringements
+	
+
+	
+
+	Footwork
+	Hands, palms down, move vertically up/down in opposite directions.
+	Player has moved feet illegally while in possession of the ball (stepping).
+	Contact
+	Hand, palm down, taps opposite forearm.
+	A player has physically contacted an opponent, unfairly interfering with their play.
+	Obstruction (player with ball)
+	Hands, palms inward, held short distance apart.
+	Defender is too close (less than 0.9m) to a player with the ball.
+	Offside / Incorrect Position / Over a Third
+	Hand traces a medium upward arc in direction of incorrect area.
+	Player is in wrong court area (Offside), ball thrown over a full third untouched (Over a Third), or player breaks too soon.
+	Held Ball
+	Arm held vertically, three fingers displayed.
+	Player has held the ball for longer than three seconds.
+	Incorrect Playing of the Ball (Replayed Ball)
+	One hand, palm down, moves vertically up/down in bouncing action.
+	Player has replayed the ball (e.g., bounced and re-caught it illegally).
+	Understanding these signals helps demystify the umpire's role and allows participants and spectators to follow the game more closely, appreciating the application of the rules.
+
+
+VI. Spirit of the Game: Fair Play and Development at RNA
+
+
+A. Upholding RNA's Codes of Behaviour
+The Redlands Netball Association places significant emphasis on maintaining a positive and respectful sporting environment, underpinned by its comprehensive Codes of Behaviour.3 The "General Code of Behaviour" applies to all individuals involved with the association, while the "Junior Player Code of Behaviour" provides specific guidelines for younger participants. Key tenets of these codes include:
+* Treating all persons with respect and courtesy, and having proper regard for their dignity and rights.
+* Being ethical, fair, considerate, and honest in all dealings.
+* Operating within the rules and, importantly, the spirit of netball.
+* Cooperating with coaches, teammates, opponents, and officials.
+* Applauding all good play, by one's own team and by opponents.
+* Prioritizing the safety and welfare of children above other considerations.15
+These codes are not merely suggestions but form the foundational framework for participation at RNA, aiming to ensure that netball is an enjoyable and enriching experience for everyone.
+B. Alignment with Netball Australia's Junior Sport Philosophy
+The Redlands Netball Association's local approach to junior netball aligns with the broader national guidelines set forth by Netball Australia. The Netball Australia Junior Netball Policy is designed to assist netball providers in creating safe, supportive, and enjoyable environments that encourage lifelong involvement in the sport.2 This policy emphasizes:
+* Fostering skill development alongside cardiovascular and musculoskeletal health.
+* Promoting the significant social benefits of team sport, such as communication, discipline, and teamwork.
+* Modifying activities and rules where necessary to suit players' capacities and maintain their interest and satisfaction.2
+For the U12 age group, which falls within Netball Australia's "Development - Learn to Train" stage (approximately 11-13 years), the policy specifically recommends an emphasis on all-round development, providing opportunities for players to experience different positions, and promoting fair play.2 A key aspect of this developmental philosophy for this age group is the recommendation for "competition rotation (no scoring or ladders)".2 This approach seeks to de-emphasize a "win-at-all-costs" mentality, which can sometimes detract from skill acquisition, enjoyment, and long-term participation, particularly in younger age groups.
+While RNA U12s are described as playing "full competition rules" 1, it is beneficial for the association's competition structure for this age group to reflect these national developmental principles. The focus should ideally remain on skill development, fair participation for all, and the intrinsic enjoyment of the game, rather than being solely driven by match outcomes or ladder positions. RNA's "Junior Player Code of Behaviour" itself supports this, urging players to "Participate because you enjoy it, not just to please parents and coaches".15 Ensuring that the competitive elements of U12 netball at RNA are balanced with these developmental goals will contribute positively to the players' overall experience and their continued engagement with the sport.
+C. Encouraging a Positive Sideline Culture
+The atmosphere created by parents, carers, and spectators plays a vital role in the experience of junior athletes. The Redlands Netball Association's guidelines for modified games for younger age groups offer advice that remains highly relevant for U12 competitions: spectators "Should cheer, clap and encourage all children on the court. But should not instruct or coach players during games".7 Multiple voices giving differing instructions can confuse young players and detract from the guidance provided by their coach. A positive and supportive sideline culture, focused on encouragement and respect for all participants – including players from both teams and the umpires – significantly enhances the enjoyment and developmental environment of junior netball.
+
+
+VII. Conclusion and Finding More Information
+
+
+A. Summary of Key Takeaways for U12 Netball at RNA
+Navigating Under-12 netball at the Redlands Netball Association involves understanding a transition to more formal rules while maintaining a focus on player development and enjoyment. Key takeaways include:
+* Transition to Formal Rules: U12 players move from modified NetSetGO rules to what RNA terms "full competition rules," aligning more closely with standard netball.
+* Key Game Specifications: Players will likely use a Size 5 ball and shoot at 3.05m (10ft) goal posts. Match duration is expected to be shorter than senior games, potentially mirroring formats like 4 x 8-minute or 4 x 10-minute quarters.
+* Positional Play: Understanding the seven distinct playing positions, their allowed court areas, and primary roles is crucial. However, for U12 development, experiencing multiple positions is highly recommended.
+* Rules of Play: Core rules regarding centre passes, held ball (3 seconds), footwork, offside, over a third, obstruction (0.9m), and contact will be applied more formally. Substitution rules may include standard, tactical, or rolling options, as per RNA's specific guidelines.
+* Umpire's Role: Umpires are essential for fair and safe play, using whistles, voice, and standardized hand signals for effective communication.
+* Developmental Focus: Despite more formal rules, the spirit of the game, fair play, and alignment with Netball Australia's junior sport philosophy (emphasizing skill development and enjoyment over winning) remain paramount. RNA's Codes of Behaviour provide the local framework for this.
+B. Accessing Official Documents and Further Support
+For the most accurate, current, and specific information pertaining to Under-12 netball at the Redlands Netball Association, the following resources are invaluable:
+* Redlands Netball Association (RNA):
+   * Website: The official RNA website (redlandsnetball.majestri.com.au) is the primary portal for information.3
+   * Key Documents: Members should seek to access and familiarize themselves with the:
+      * "Redland Netball Association Competitions Manual" (the definitive guide for local competition rules).
+      * "RNA Constitution / Rules."
+      * "RNA Policies" (including Codes of Behaviour, Umpiring and Procedure Booklet, Coaching Policy).
+      * "Redlands Netball RULES - Modified 7-9 years RNA" (for comparison).
+      * "Redlands Netball Rolling Substitution Rules".3
+   * Direct Contact: For any specific queries not covered in published documents, contacting RNA officials directly is recommended.
+* Netball Queensland (NQ):
+   * Website: qld.netball.com.au.23
+   * Resources: NQ is the state governing body and offers a wealth of resources for players, coaches, and umpires. This includes information on state-level competitions (like the Junior State Age, for which competition manuals are available 31), umpire development pathways and resources 24, and coaching accreditation.
+* Netball Australia (NA):
+   * Website: netball.com.au.17
+   * Resources: NA provides national policies, including the crucial Junior Netball Policy.2 The official
+Rules of Netball (currently the 2024 Edition 12) can be accessed here, along with umpire education materials, including the Rules of Netball Theory Exam.17
+By utilizing these resources and engaging with the Redlands Netball Association community, players, parents, and coaches can ensure a well-informed, positive, and developmentally focused netball experience for all U12 participants.
+Works cited
+   1. Teams | Wynnum and District Netball Association, accessed May 24, 2025, https://www.wynnumdistrictnetball.com/teams
+   2. wa.netball.com.au, accessed May 24, 2025, https://wa.netball.com.au/sites/wa/files/2020-01/Netball-Australia-Junior-Netball-Policy.pdf
+   3. RNA Information - Redlands Netball Association, accessed May 24, 2025, https://www.redlandsnetball.com.au/wspRNAInformation.aspx
+   4. What's On | Redlands Netball Association, accessed May 24, 2025, https://redlandsnetball.majestri.com.au/whats-on
+   5. Events - Redlands Netball Association, accessed May 24, 2025, https://redlandsnetball.majestri.com.au/wspEvents.aspx
+   6. What's the Right Size Netball Ball for Age? Learn this & more ..., accessed May 24, 2025, https://summitsport.com.au/blogs/articles/how-to-choose-the-right-netball
+   7. www.allstarsnetball.com.au, accessed May 24, 2025, https://www.allstarsnetball.com.au/wp-content/uploads/2020/12/Redlands-Netball-Association-Rules-of-modified-game-play.pdf
+   8. www.clearinghouseforsport.gov.au, accessed May 24, 2025, https://www.clearinghouseforsport.gov.au/__data/assets/pdf_file/0011/864398/Playing_for_life_Netball_manual_v2.1_-_19_3_14.pdf
+   9. www.schoolsportaustralia.edu.au, accessed May 24, 2025, https://www.schoolsportaustralia.edu.au/wp-content/uploads/2023/01/Netball-12-Years-and-Under-Championship-Rules-and-Guidelines.pdf
+   10. www.schoolsportaustralia.edu.au, accessed May 24, 2025, https://www.schoolsportaustralia.edu.au/wp-content/uploads/2020/02/Netball-12-Years-and-Under-Championships-Rules-and-Guidelines.pdf
+   11. Netball Post Height Guide | Senior & Junior | Net World Sports, accessed May 24, 2025, https://www.networldsports.co.uk/buyers-guides/guide-to-netball-posts
+   12. netball.sport, accessed May 24, 2025, https://netball.sport/wp-content/uploads/2024/01/World-Netball-Rules-Book-2024.pdf
+   13. Modified Rules for NetSetGO Summary - Amazon S3, accessed May 24, 2025, https://s3-ap-southeast-2.amazonaws.com/s3-cdn-netsetgo/wp-content/uploads/2013/03/19003805/Modified-Rules-summary.pdf
+   14. Rules of netball - Wikipedia, accessed May 24, 2025, https://en.wikipedia.org/wiki/Rules_of_netball
+   15. Redlands Netball Association Inc., accessed May 24, 2025, https://www.allstarsnetball.com.au/wp-content/uploads/2019/12/Redlands-Netball-Codes-of-Behaviour.pdf
+   16. Rules of Netball & Modified Netball, accessed May 24, 2025, https://www.downeypark.com.au/rulesofnetball
+   17. Rules of Netball - netball.com.au, accessed May 24, 2025, https://netball.com.au/rules-of-netball
+   18. 10 Rules of Netball | Simple Rule Guide for Beginners - UK Rules, accessed May 24, 2025, https://www.theukrules.co.uk/rules/sport/netball/top-ten-regulations/
+   19. Netball Rules and Positions - The Ultimate Guide for Beginners, accessed May 24, 2025, https://www.sportmember.co.uk/en/sports-rules/netball-rules
+   20. SUBSTITUTION FAQs, accessed May 24, 2025, https://vic.netball.com.au/sites/vic/files/2024-04/Substitution%20FAQs.pdf
+   21. 2024 Rule Changes & Rolling Subs - Melbourne East Netball Association, accessed May 24, 2025, https://menanetball.com.au/2024-rule-changes-rolling-subs/
+   22. Netball Umpiring Hand Signals | Umpire Finger Whistle Use - UK ..., accessed May 24, 2025, https://www.theukrules.co.uk/rules/sport/netball/umpiring-terms/
+   23. Netball Queensland: Home, accessed May 24, 2025, https://qld.netball.com.au/
+   24. Umpire Resources - Netball Queensland, accessed May 24, 2025, https://qld.netball.com.au/umpire-resources
+   25. Umpires – HDNA - Hinterland District Netball Association, accessed May 24, 2025, https://hdna.net.au/umpires/
+   26. Netball Umpire Hand Signals | PDF - Scribd, accessed May 24, 2025, https://www.scribd.com/doc/260046601/netball-umpire-hand-signals
+   27. junior umpiring guidelines - GameDay, accessed May 24, 2025, https://websites.mygameday.app/get_file.cgi?id=36098464
+   28. JUNIOR UMPIRING GUIDELINES Role of an Umpire Umpire's Tools What you need to do before the game - GameDay, accessed May 24, 2025, https://websites.mygameday.app/get_file.cgi?id=36741431
+   29. nsw.netball.com.au, accessed May 24, 2025, https://nsw.netball.com.au/sites/nsw/files/2022-10/HandSignals.pdf
+   30. en.wikipedia.org, accessed May 24, 2025, https://en.wikipedia.org/wiki/Netball_Queensland
+   31. qld.netball.com.au, accessed May 24, 2025, https://qld.netball.com.au/sites/qld/files/2024-11/2025%20JSA%20competition%20manual%20%28updated%29.pdf
+   32. Junior State Age (12-14) - Netball Queensland, accessed May 24, 2025, https://qld.netball.com.au/nissan-state-age

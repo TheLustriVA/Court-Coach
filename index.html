@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Court Coach - Netball Whiteboard</title>
+    <meta name="description" content="Digital netball court whiteboard for coaches and players">
+    <meta name="theme-color" content="#404040">
+    
+    <!-- PWA manifest -->
+    <link rel="manifest" href="manifest.json">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/icons/icon-192x192.png">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/themes.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    
+    <!-- Konva.js -->
+    <script src="https://unpkg.com/konva@9/konva.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <h1 class="app-title">Court Coach</h1>
+            <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+        </header>
+        
+        <!-- Main content -->
+        <main class="app-main">
+            <!-- Canvas container -->
+            <div class="canvas-container">
+                <div id="court-container" class="court-container">
+                    <!-- Konva canvas will be inserted here -->
+                </div>
+            </div>
+            
+            <!-- Controls -->
+            <div class="controls-container">
+                <!-- Tools -->
+                <div class="tools-group">
+                    <h3>Tools</h3>
+                    <div class="tool-buttons">
+                        <button class="tool-btn active" id="selectTool" data-tool="select" aria-label="Select tool">
+                            <span class="tool-icon">👆</span>
+                            <span class="tool-label">Select</span>
+                        </button>
+                        <button class="tool-btn" id="arrowTool" data-tool="arrow" aria-label="Arrow tool">
+                            <span class="tool-icon">➡️</span>
+                            <span class="tool-label">Arrow</span>
+                        </button>
+                        <button class="tool-btn" id="eraseTool" data-tool="erase" aria-label="Erase tool">
+                            <span class="tool-icon">🗑️</span>
+                            <span class="tool-label">Erase</span>
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- Actions -->
+                <div class="actions-group">
+                    <h3>Actions</h3>
+                    <div class="action-buttons">
+                        <button class="action-btn" id="onCourtBtn" aria-label="Place all players on court">
+                            <span class="action-icon">🏃</span>
+                            <span class="action-label">On-court</span>
+                        </button>
+                        <button class="action-btn" id="clearCourtBtn" aria-label="Clear all players from court">
+                            <span class="action-icon">🧹</span>
+                            <span class="action-label">Clear court</span>
+                        </button>
+                        <button class="action-btn" id="clearArrowsBtn" aria-label="Clear all arrows">
+                            <span class="action-icon">🔄</span>
+                            <span class="action-label">Clear arrows</span>
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- Save/Load -->
+                <div class="save-group">
+                    <h3>Save</h3>
+                    <div class="save-buttons">
+                        <button class="save-btn" id="saveBtn" aria-label="Save current setup">
+                            <span class="save-icon">💾</span>
+                            <span class="save-label">Save</span>
+                        </button>
+                        <button class="save-btn" id="loadBtn" aria-label="Load saved setup">
+                            <span class="save-icon">📂</span>
+                            <span class="save-label">Load</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </main>
+        
+        <!-- Footer -->
+        <footer class="app-footer">
+            <p>&copy; 2024 Court Coach - Netball Whiteboard App</p>
+        </footer>
+    </div>
+    
+    <!-- Loading indicator -->
+    <div id="loading" class="loading-overlay">
+        <div class="loading-spinner"></div>
+        <p>Loading Court Coach...</p>
+    </div>
+    
+    <!-- Scripts -->
+    <script src="js/storage.js"></script>
+    <script src="js/court.js"></script>
+    <script src="js/players.js"></script>
+    <script src="js/tools.js"></script>
+    <script src="js/app.js"></script>
+    
+    <!-- PWA registration -->
+    <script>
+        if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('sw.js')
+                    .then(function(registration) {
+                        console.log('ServiceWorker registration successful');
+                    })
+                    .catch(function(err) {
+                        console.log('ServiceWorker registration failed: ', err);
+                    });
+            });
+        }
+    </script>
+</body>
+</html>
